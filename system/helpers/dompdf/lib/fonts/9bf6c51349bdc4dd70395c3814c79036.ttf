@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html>
+	<head>		
+		<title>Page Not Found&nbsp;- Barcodemart.co.id</title>
+		<link rel="shortcut icon" href="http://barcodemart.dev/asset/admin/images/favicon.ico">
+		<meta charset="utf-8">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="description" content="Page Not Found">
+		<meta name="keywords" content="Page Not Found">
+		<meta name="author" content="PT Barcodemart Indonesia">
+		<meta name="robots" content="index, follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="language" content="Indonesia" />
+		<meta http-equiv="Copyright" content="Barcodemart" />		
+		<!-- load css -->
+				<link rel='stylesheet' type='text/css' href='http://barcodemart.dev/asset/theme/blue_strap/css/bootstrap.min.css'>
+				<link rel='stylesheet' type='text/css' href='http://barcodemart.dev/asset/theme/blue_strap/css/bootstrap-responsive.min.css'>
+				<link rel='stylesheet' type='text/css' href='http://barcodemart.dev/asset/theme/blue_strap/css/main.css'>
+				<link rel='stylesheet' type='text/css' href='http://barcodemart.dev/asset/theme/blue_strap/css/style.css'>
+				<link rel='stylesheet' type='text/css' href='http://barcodemart.dev/asset/theme/blue_strap/css/menucategory-respons.css'>
+				<link rel='stylesheet' type='text/css' href='http://barcodemart.dev/asset/theme/blue_strap/css/buttondropdown.css'>
+				<link rel='stylesheet' type='text/css' href='http://barcodemart.dev/asset/theme/blue_strap/css/redactor.css'>
+				<link rel='stylesheet' type='text/css' href='http://barcodemart.dev/asset/theme/blue_strap/css/carthover.css'>
+				<link rel='stylesheet' type='text/css' href='http://barcodemart.dev/asset/theme/blue_strap/css/dropdownflyout.css'>
+				<link rel='stylesheet' type='text/css' href='http://barcodemart.dev/asset/theme/blue_strap/css/sort.css'>
+				<!-- load js -->
+				<script src="http://barcodemart.dev/asset/theme/blue_strap/js/jquery.js" type="text/javascript"></script>
+				<script src="http://barcodemart.dev/asset/theme/blue_strap/js/bootstrap.min.js" type="text/javascript"></script>
+				<script src="http://barcodemart.dev/asset/theme/blue_strap/js/bootstrap-carousel.js" type="text/javascript"></script>
+				<script src="http://barcodemart.dev/asset/theme/blue_strap/js/redactor/jquery-1.7.min.js" type="text/javascript"></script>
+				<script src="http://barcodemart.dev/asset/theme/blue_strap/js/redactor/redactor.min.js" type="text/javascript"></script>
+				<script src="http://barcodemart.dev/asset/theme/blue_strap/js/display.js" type="text/javascript"></script>
+				<script src="http://barcodemart.dev/asset/theme/blue_strap/js/main.js" type="text/javascript"></script>
+				<script src="http://barcodemart.dev/asset/theme/blue_strap/js/jquery.elevatezoom.js" type="text/javascript"></script>
+				<script src="http://barcodemart.dev/asset/theme/blue_strap/js/menucategory-respons.js" type="text/javascript"></script>
+				<script src="http://barcodemart.dev/asset/theme/blue_strap/js/verticalmenu.js" type="text/javascript"></script>
+				<script src="http://barcodemart.dev/asset/theme/blue_strap/js/fungsi.js" type="text/javascript"></script>
+				<script src="http://barcodemart.dev/asset/theme/blue_strap/js/dropdownvertical.js" type="text/javascript"></script>
+				<script src="http://barcodemart.dev/asset/theme/blue_strap/js/fixed-menu-scroll.js" type="text/javascript"></script>
+				<script src="http://barcodemart.dev/asset/theme/blue_strap/js/function.js" type="text/javascript"></script>
+			</head>		
+<body>
+<div class="container">		
+		<div class="navbar">
+						 <div class="navbar-inner">				
+							<div class="container">
+								<div class="font_top_header">
+									<ul class="nav" >	<a class="btn btn-navbar" style="margin-left:20px; " data-toggle="collapse" data-target=".nav-collapse">
+						            <span class="icon-bar"></span>
+						            <span class="icon-bar"></span>
+						            <span class="icon-bar"></span>
+						        </a><div class="nav-collapse collapse">
+													<ul class="nav" >
+													<!--<li><a title="Home" href=http://barcodemart.dev/ ><i class="icon-home"></i></a></li>--><li style="padding:1px 15px 2px;"><i class="icon-barcode"></i> Toko Online AIDC & POS Harga Distributor Resmi</li><li style="padding:1px 15px 2px;"><i class=" icon-road"></i> Kirim 2-3 Hari Kerja & Free Ongkir*</li><li style="padding:1px 15px 2px;"><i class="icon-envelope"></i> cs@barcodemart.co.id</li><li style="padding:1px 15px 2px;"><i class="icon-time"></i> Senin - Jumat [09:00 - 18.00] </li><li style="padding:1px 15px 2px;"><i class="icon-signal"></i> <u>CS: 021 6013871</u></li></ul></div></div></div>
+							</div>
+								</div>		<div class="cleaner_h20" style="z-index:0">
+						<span class="pull-left" >							
+							<a href="http://barcodemart.dev/">									 			
+								<img src="http://barcodemart.dev/asset/images/logo/logobm.jpg"  class="img_header" alt="Barcodemart_Logo" title="Barcodemart.co.id">									
+							</a>							
+						</span>
+										
+						<!-- search produk-->
+						<span class="pull-left">
+							<div>
+								<div class="input-append">			
+							     	<form action="http://barcodemart.dev/web/pubsearch/search" accept-charset="utf-8" class="search_top_form" id="form" method="post" >						     
+										<input class="span5"  placeholder="Cari produk..."  name="keyword" size="30" type="text" required=""><button class="btn btn-inverse" type="submit" title="Search"><i class="icon-search icon-white"></i></button>
+									 </form>																
+								</div>
+							</div>
+						</span><span class="pull-left">
+							<div style="margin-left: 5px; padding-bottom:10px;">
+								<div class="user_login"><a href=http://barcodemart.dev/web/login.html title="Registrasi / Login" style="width:160px; color : #ffffff; padding-left : 10px; padding-right:70px; padding-bottom : 12px;padding-top : 6px;  background: #f4007a;"><i class="icon-lock icon-white"></i> Registrasi / Login</a></div></div></span><span class="pull-left"><div style="margin-left: 5px;padding-bottom:10px;">
+					<div id="csscart">
+						<ul>					  
+						   <li class="active"><a href="#"><i class="icon-shopping-cart icon-white"></i> IDR (0) Kosong</a>
+						      <ul><li><a href="#" style="font-size:11pt">Keranjang Kosong</a></li></ul>
+					</li>					   
+						</ul>
+						</div></div></span></div>	
+   		<div class="cleaner_h10"></div>	
+		<div id="headered" style="z-index:2"><div id="cssmenu">
+				  <ul><li><a href="http://barcodemart.dev/web/pubcategory/scanning-barcode-1-3-01.html">SCANNING</a>
+									<ul><li><a href="http://barcodemart.dev/web/pubcategory/2d-barcode-scanner-3-10-02.html">2D BARCODE SCANNER</a>
+						 						<ul></ul></li><li><a href="http://barcodemart.dev/web/pubcategory/fixed-mount-barcode-scanner-3-11-02.html">FIXED MOUNT BARCODE SCANNER</a>
+						 						<ul></ul></li><li><a href="http://barcodemart.dev/web/pubcategory/hands-free-barcode-scanner-3-12-02.html">HANDS FREE BARCODE SCANNER</a>
+						 						<ul></ul></li><li><a href="http://barcodemart.dev/web/pubcategory/hand-held-barcode-scanner-3-14-02.html">HAND HELD BARCODE SCANNER</a>
+						 						<ul></ul></li><li><a href="http://barcodemart.dev/web/pubcategory/wireless-barcode-scanner-3-16-02.html">WIRELESS BARCODE SCANNER</a>
+						 						<ul></ul></li><li><a href="http://barcodemart.dev/web/pubcategory/aksesoris-scanner-3-17-02.html">AKSESORIS SCANNER BARCODE</a>
+						 						<ul></ul></li></ul></li><li><a href="http://barcodemart.dev/web/pubcategory/mobility-scanner-1-4-01.html">MOBILITY</a>
+									<ul><li><a href="http://barcodemart.dev/web/pubcategory/data-collector-4-18-02.html">DATA COLLECTOR</a>
+						 						<ul></ul></li></ul></li><li><a href="http://barcodemart.dev/web/pubcategory/printing-barcode-1-5-01.html">PRINTING</a>
+									<ul><li><a href="http://barcodemart.dev/web/pubcategory/ddesktop-barcode-printer-5-19-02.html">DESKTOP PRINTER</a>
+						 						<ul></ul></li><li><a href="http://barcodemart.dev/web/pubcategory/industrial-barcode-printer-5-20-02.html">INDUSTRIAL PRINTER</a>
+						 						<ul></ul></li><li><a href="http://barcodemart.dev/web/pubcategory/aksesoris-printer-5-21-02.html">AKSESORIS PRINTER BARCODE</a>
+						 						<ul></ul></li></ul></li><li><a href="http://barcodemart.dev/web/pubcategory/consumable-aidc-pos-1-6-01.html">CONSUMABLES</a>
+									<ul><li><a href="http://barcodemart.dev/web/pubcategory/blank-label-6-22-02.html">BLANK DIE-CUT LABELS</a>
+						 						<ul></ul></li><li><a href="http://barcodemart.dev/web/pubcategory/thermal-ribbon-6-23-02.html">THERMAL RIBBONS</a>
+						 						<ul></ul></li></ul></li><li><a href="http://barcodemart.dev/web/pubcategory/printer-kasir-2-8-01.html">RECEIPT PRINTER</a>
+									<ul><li><a href="http://barcodemart.dev/web/pubcategory/thermal-printer-kasir-8-24-02.html">THERMAL PRINTER</a>
+						 						<ul></ul></li><li><a href="http://barcodemart.dev/web/pubcategory/dot-matrix-printer-8-25-02.html">DOT MATRIX RECEIPT PRINTER</a>
+						 						<ul></ul></li></ul></li><li><a href="http://barcodemart.dev/web/pubcategory/cash-drawer-2-9-01.html">CASH DRAWER</a>
+									<ul></ul></li></ul>
+				</div></div>			
+		<div class="cleaner_h5"></div>
+		<!--  <div class="alert" id="notif" style="display:none"></div>	-->
+		<div class="success"  style="display:none"></div>	
+		<div class="danger" style="display:none"></div>					
+		<div id="loading"></div>
+		<!-- <div class="loader"></div> -->	
+	
+		<div class="row-fluid">
+	<div class="span12">
+		<div style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #9e9e9e;">
+			<div style="text-align: center;  top: 30%; left:50%;">
+				<h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">404</h1>
+				<h2 style="margin-top:20px;margin-bottom:20px;font-size: 30px;">Halaman Tidak Ditemukan</h2>
+				<button type="button" onclick="javascript:history.back()" class="btn btn-large btn-default">Kembali ke halaman sebelumnya</button>
+				<div class="cleaner_h20"></div> 
+			</div>		
+		</div>
+	</div>
+</div><div class="cleaner_h10"></div>
+		<div class="container-fluid footer">	
+			<div class="container">		
+				<div class="row-fluid">			
+				<div class="style"><hr/></div>			
+					</div><div class='cleaner_h5'></div><div class='row-fluid product_listing'><div class='span3'><h3>INFORMASI</h3>	
+						<div class="contact-font"><ul>
+<li><a title="Tentang Kami" href="../../web/tentang-kami.html">Tentang Kami</a></li>
+<li><a title="Kontak Kami" href="../../web/kontak-kami.html">Kontak Kami</a></li>
+<li><a title="Lihat Semua Produk Terbaru" href="../../web/pubcategory/lihat-semua-produk-terbaru-21.html">Produk Terbaru</a></li>
+<li><a title="Lihat Semua Produk Terlaris" href="../../web/pubcategory/lihat-semua-produk-terlaris-22.html">Produk Terlaris</a></li>
+<li><a title="Lihat Semua Penjualan Terbaik" href="../../web/pubcategory/lihat-semua-penjualan-terbaik-20.html">Penjualan Terbaik</a></li>
+<li><a title="Lihat Semua Promo Bundling" href="../../web/pubcategory/lihat-semua-promo-bundling-23.html">Promo Bundling</a></li>
+</ul></div></div><div class='span3'><h3>HUBUNGI KAMI</h3>	
+						<div class="contact-font"><ul>
+<li>Email : <a href="mailto:cs@barcodemart.co.id">cs@barcodemart.co.id</a></li>
+<li>Telp :&nbsp;+62 21 601 3871</li>
+<li>Pin BB : 51B29DAA</li>
+</ul></div></div><div class='span3'><h3>AKUN SAYA</h3>	
+						<div class="contact-font"><ul>
+<li><a title="Konfirmasi Pembayaran" href="../../web/pubmember_area/konfirmasi-pembayaran.html">Konfirmasi Pembayaran</a></li>
+<li><a title="Lihat Order Saya" href="../../web/pubmember_area/order-saya.html">Order Saya</a></li>
+<li><a title="Lihat Alamat Saya" href="../../web/pubmember_area/alamat-saya.html">Alamat Saya</a></li>
+<li><a title="Lihat Profile Saya" href="../../web/pubmember_area/pengaturan-akun.html">Profile Saya</a></li>
+</ul></div></div><div class='span3'><h3>LAYANAN PELANGGAN</h3>	
+						<div class="contact-font"><ul>
+<li><a title="Kebijakan Pengiriman" href="../../web/kebijakan-pengiriman.html">Kebijakan Pengiriman</a></li>
+<li><a title="Petunjuk Pembelian" href="../../web/petunjuk-pembelian.html">Petunjuk Pembelian</a></li>
+<li><a title="Petunjuk Pengembalian Barang" href="../../web/petunjuk-pengembalian-barang.html">Petunjuk&nbsp;Pengembalian Barang</a></li>
+<li><a title="Monitoring Barang Servis" href="../../web/monitoring-barang-servis.html">Monitoring Barang Servis</a></li>
+<li><a title="Syarat dan Ketentuan" href="../../web/syarat-dan-ketentuan.html">Syarat dan Ketentuan</a></li>
+<li><a title="Kebijakan Garansi" href="../../web/kebijakan-garansi.html">Kebijakan Garansi</a>&nbsp;</li>
+</ul></div></div>		
+				</div>	
+			</div>	
+		</div>		
+		<div class="container">	
+							  
+				<div class="methode">	
+					<div class="row-fluid">	
+						<div class="span6">
+							<h2>Metode Pembayaran</h2><div class="span3">
+						<div class="methode_border">					
+							<div class="main_content">
+								<img alt=COD title=COD src=http://barcodemart.dev/asset/images/bank/cash-on-delivery.jpg width="100px">
+							</div>
+						</div>								
+				  </div><div class="span3">
+						<div class="methode_border">					
+							<div class="main_content">
+								<img alt=Credit Card - Visa title=Credit Card - Visa src=http://barcodemart.dev/asset/images/bank/20160523_logo_visa2.png width="100px">
+							</div>
+						</div>								
+				  </div><div class="span3">
+						<div class="methode_border">					
+							<div class="main_content">
+								<img alt=Credit Card - Master Card title=Credit Card - Master Card src=http://barcodemart.dev/asset/images/bank/20160523_logo_mastercard.png width="100px">
+							</div>
+						</div>								
+				  </div>						</div>		
+							
+						<div class="span6">
+							<h2>Metode Pengiriman</h2><div class="span3">						
+						<div class="methode_border">		
+					<div class="main_content">
+								<img alt=JNE Yes title=JNE Yes src=http://barcodemart.dev/asset/images/carrier/jne-yes.jpg width="100px">
+							</div>
+								</div>		
+						
+					  </div><div class="span3">						
+						<div class="methode_border">		
+					<div class="main_content">
+								<img alt=JNE Regular title=JNE Regular src=http://barcodemart.dev/asset/images/carrier/jne-regular.jpg width="100px">
+							</div>
+								</div>		
+						
+					  </div><div class="span3">						
+						<div class="methode_border">		
+					<div class="main_content">
+								<img alt=Pickup at Care Center title=Pickup at Care Center src=http://barcodemart.dev/asset/images/carrier/pickup.jpg width="100px">
+							</div>
+								</div>		
+						
+					  </div>						</div>	
+						<div class="cleaner_h10"></div>	
+					</div>					
+					<div class="detail-product"><hr/></div>
+					<div class="row-fluid">								
+						<div class="span6">	
+							<p  left;">Copyright &copy; 2016
+<p  left;"><a href="../../../">PT Barcode Mart Indonesia</a>&nbsp;| All Rights Reserved.	
+						</div>	
+						<div class="span3">
+							Barcodemart in Asia<br>
+							<a href="http://barcodemart.dev/" target="_blank" title="Barcodemart Indonesia"><img src="http://barcodemart.dev/asset/images/icon/Indonesia-Flag-icon.png" alt="Indonesia Flag"></a>
+							<a href="http://www.barcodemart.com.my" target="_blank" title="Barcodemart Malaysia"><img src="http://barcodemart.dev/asset/images/icon/Malaysia-Flag-icon.png" alt="Malaysia Flag"></a>
+							<a href="http://www.barcodemart.com.sg" target="_blank" title="Barcodemart Singapore"><img src="http://barcodemart.dev/asset/images/icon/Singapore-Flag-icon.png" alt="Singapore Flag" ></a>
+							<a href="http://www.barcodemart.co.th" target="_blank" title="Barcodemart Thailand"><img src="http://barcodemart.dev/asset/images/icon/Thailand-Flag-icon.png" alt="Thailand Flag"></a>
+						</div>
+						<div class="span3">
+							Follow Us<br>
+							<a href="https://www.facebook.com/Barcodemartindonesia/?fref=ts" target="_blank" title="Follow us on facebook"><img src="http://barcodemart.dev/asset/images/icon/social-facebook-box-blue-icon.png" alt="Facebook"></a>
+							<a href="#" target="_blank" title="Follow us on twitter"><img src="http://barcodemart.dev/asset/images/icon/twitter-icon.png" alt="Twitter"></a>
+							<a href="#" target="_blank" title="Follow us on goole plus"><img src="http://barcodemart.dev/asset/images/icon/google-plus-icon.png" alt="Goole Plus"></a>
+							<a href="https://www.instagram.com/barcodemart/" target="_blank" title="Follow us on instagram"><img src="http://barcodemart.dev/asset/images/icon/Active-Instagram-3-icon.png" alt="Instagram"></a>
+							<a href="https://www.youtube.com/channel/UChN9P_9EqBRl5dDpZKgIAfA" target="_blank" title="Follow us on youtube"><img src="http://barcodemart.dev/asset/images/icon/You-Tube-icon.png" alt="Youtube"></a>
+							<a href="https://www.linkedin.com/company/pt-barcode-mart-indonesia" target="_blank" title="Follow us on linked in"><img src="http://barcodemart.dev/asset/images/icon/linkedin-icon.png" alt="Linked In"></a>
+						</div>
+					</div>
+					<div class="cleaner_h10"></div>
+			</div>	<!-- /Main page container -->
+		
+		<!-- back top -->
+		<a href="#0" class="cd-top">Top</a>	
+		<!-- /back top -->	
+		
+				
+	<!-- end container -->
+	</div>
+	<!-- end body -->
+</body>	
+
+<script type="text/javascript">
+$(document).ready(function(){	
+	$(".tablemetod tr").css('cursor','pointer');
+	$('.tablemetod tr').click(function() {
+		$(this).find('input[type=radio]').prop('checked', true);
+		if ($('[id="rbbank"]').is(':checked'))
+		{
+			$("#btnpay").removeAttr('disabled');
+		}
+		else if ($('[id="rbship"]').is(':checked'))
+		{
+			var shipp = $("input[type='radio']:checked").val();			
+			if (shipp == 7)//cod
+			{
+				//document.getElementById('panel_cc').style.display = 'block';
+				$("#panel_cc").slideDown(500);
+			}
+			else
+			{				
+				//document.getElementById('panel_cc').style.display = 'none';
+				$("#panel_cc").slideUp(500);
+			}
+		}	
+	})
+
+	//terms shipp
+	$(".chkmetod").click(function(){
+		if ($('[id="chkshipp"]').is(':checked'))
+		{
+			$('input[type="submit"]').removeAttr('disabled');
+		}
+		else
+		{
+			$('input[type="submit"]').attr('disabled',true);
+		}
+	})
+})
+loadingimage();
+function loadingimage()
+{
+	$('img').load(function(){
+		//console.log($(this).attr("id"));
+		$("#"+this.id).css('background', 'none');
+		//$("#"+this.id).removeClass('img-polaroid');	
+	})
+}
+
+//currency convert
+		function changecurrency(value)
+		{		
+			var expl = value.split('-');
+			var id = expl[0];
+			var iso_code = expl[1];
+			var rate = expl[2];
+			var confirmalert = expl[3];
+			var cancelconfirm = expl[4];
+			if (confirm(confirmalert))
+			{
+				loading(true);
+				$.ajax ({
+						url		: 'http://barcodemart.dev/web/converts_currency',
+						type	: 'post',
+						data	: 'id='+id+'&iso_code='+iso_code+'&rate='+rate,
+						cache	: false,
+						success	: function (param)
+						{
+							var json = eval('('+param+')');
+							if (json.error == 0)
+							{
+								if (json.direct == 0)
+								{
+									window.location.replace(json.url);
+								}
+								else
+								{
+									//notif success save
+									$("#notif").removeClass('alert-warning');
+									$("#notif").removeClass('alert-success');
+									$("#notif").addClass('alert-danger');							
+									$("#notif").html(json.msg).show();
+									$("#tblcart").remove();
+									$("#tbshipp").remove();
+									$("#addresses").remove();
+									$("#tbpayment").remove();
+									$("#tbsummary").remove();
+								}								
+							}						
+							else
+							{
+								window.location.replace(json.url);
+							}
+							
+							loading(false);
+							success_log();
+						},					
+						error	: function (param)
+						{
+							alert('Can not convert!');
+							error_log();
+						}
+				})
+			}
+			else {alert(cancelconfirm);}
+		}
+		
+			
+		
+		function language(id)
+		{
+			loading(true);
+			$.ajax ({
+					url 	: 'http://barcodemart.dev/web/change_language',
+					type	: 'post',
+					data	: 'id='+id,
+					cache	: false,
+					success	: function (param)
+					{						
+						window.location.replace(param);
+						loading(false);
+						success_log();
+					},
+					error	: function (param)
+					{
+						alert(param);
+						error_log();
+					}
+			});
+			
+		}
+
+		function checkalias(value,id_customer)
+		{				
+			$.ajax({
+				url		:'http://barcodemart.dev/web/pubstep_payment/check_alias',
+				type	:'post',
+				data	:'value='+value+'&id_customer='+id_customer,
+				cache	:false,
+				success	:function (param)
+				{
+					if (param == 'yes')
+					{
+						$('#alias1').html("<img src='http://barcodemart.dev/asset/images/icon/block.png' align='absmiddle'><font color='red'><b> Inisial alamat sudah terdaftar, silahkan masukan yang lain!</b></font><p>");
+						
+					}
+					else if (param == 'no')
+					{
+						$('#alias1').html('');
+
+					}
+					success_log();
+						
+				},
+				error : function (param)
+				{
+					alert(param);
+					error_log();
+				}
+			
+			})
+		}		
+			
+		function loading(is_show)
+		{		
+			if (is_show == true)
+			{
+				$('#loading').html("<img src='http://barcodemart.dev/asset/admin/images/loader.gif'><font color='black'><br>loading...</font>");
+				
+			}
+			else 
+			{
+				$("#loading").html('');
+			}
+		}		
+		</script>
+</html>

@@ -1,0 +1,290 @@
+@page{	
+	margin-top: 10px;
+	margin-bottom: 0px;
+	size:portrait;
+}
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+a {
+  color: #494949;
+  text-decoration: none;
+}
+
+body {
+  position: relative;
+  color: #000000;
+  background: #FFFFFF; 
+  font-family: Arial, sans-serif; 
+  font-size: 13px; 
+  font-family: SourceSansPro;
+}
+
+header {
+  padding: 10px 0;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #000000;  
+}
+
+#logo {
+  float: left; 
+}
+
+#logo img {
+  width:150px;
+  height: 70px;
+}
+
+#company {
+  float: right;
+  text-align: right;
+}
+
+
+#details {
+  margin-bottom: 20px;
+}
+
+#client {
+  padding-left: 6px;
+  border-left: 6px solid #494949;
+  float: left;
+  width:400px
+  
+}
+
+#client .to {
+  color: #2d2d2d;
+}
+
+h2.name {
+  font-size: 1.4em;
+  font-weight: normal;
+  margin: 0;
+}
+.trf-detail{	
+	font-weight : normal;	
+	font-size: 14px;
+	border : 1px solid #c0c0c0;
+	padding : 10px;
+	width : 450px;
+	
+}
+
+#invoice {
+  float: right;
+  text-align: right;
+  width:380px
+}
+
+#invoice h1 {
+  color: #494949;
+  font-size: 1.5em;
+  line-height: 1em;
+  font-weight: normal;
+  margin: 0  0 10px 0;
+}
+
+#invoice .date {
+  font-size: 1.1em;
+  color: #2d2d2d;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-bottom: 10px;
+  *border :1px solid #2d2d2d;
+  cellspacing :0;
+  cellpadding : 0;
+ 
+}
+
+table th,
+table td {
+  padding: 6px;
+  background: #EEEEEE;
+  text-align: center;
+  border-bottom: 1px solid #8d8d8d;
+}
+
+table th {
+  white-space: nowrap;        
+  font-weight: normal;
+   color: #555555;
+}
+
+table td {
+  text-align: right;
+}
+
+table td h3{
+  color: #494949;
+  font-size: 1.2em;
+  font-weight: normal;
+  margin: 0 0 0.2em 0;
+}
+
+table .no {
+  color: #FFFFFF;
+  font-size: 14px;
+  background: #acacac;
+}
+
+table .desc {
+  text-align: left;
+  font-size: 14px;
+  
+}
+
+table .unit {
+  background: #DDDDDD;
+}
+
+table .qty {
+}
+
+table .total {
+  background: #acacac;
+  color: #FFFFFF;
+}
+
+table td.unit,
+table td.qty,
+table td.total {
+  font-size: 14px;
+}
+
+table tbody tr:last-child td {
+  border: none;
+}
+
+table tfoot td {
+  padding: 5px 5px;
+  background: #FFFFFF;
+  border-bottom: none;
+  font-size: 14px;
+  white-space: nowrap; 
+  border-top: 1px solid #000000; 
+}
+
+table tfoot tr:first-child td {
+  border-top: none; 
+}
+
+table tfoot tr:last-child td {
+  color: #000000;
+  font-size: 16px;
+  border-top: 2px solid #000000; 
+  font-weight : bold;
+
+}
+
+table tfoot tr td:first-child {
+  border: none;
+}
+
+#thanks{
+  font-size: 2em;
+  margin-bottom: 50px;
+}
+
+#notices{
+  padding-left: 6px;
+  border-left: 6px solid #494949;  
+}
+
+#notices .notice {
+  font-size: 1.2em;
+}
+
+footer {
+  color: #454545;
+  width: 100%;
+  height: 20px;
+  *position: absolute;
+  margin-top : 10px;
+  bottom: 0;
+  border-top: 1px solid #000000;
+  padding: 8px 0;
+  text-align: center;
+}
+.title-letter{
+  color: #808080;
+  font-size: 2.4em;
+  line-height: 1em;
+  font-weight: normal;
+  margin: 0  0 10px 0;
+  text-align : center;
+  text-decoration : none;
+}
+.invoice-date{
+  color: #808080;
+  font-size: 16px;
+  line-height: 1em;
+  font-weight: normal;
+  margin: 0  0 10px 0;
+  text-align : center;
+}
+.status-unpaid{
+  color: #dfdf00; 
+  font-weight : bold;
+}
+.status-paid{
+  color: #00d76b; 
+  font-weight : bold;
+}
+.text-bottom{
+	margin-bottom : 5px;
+}
+.notice-set{
+	margin-top : 20px;
+}
+.notice-right{
+	margin-top : 10px;
+	
+}
+.notice-left{
+	margin-top : 85px;
+	
+}
+.left{
+  	width:50%;	
+	float:left;
+	text-align:center;
+}
+.left hr{
+ margin-top : 80px;
+ width : 35%;
+}
+.left h2 {
+  color: #494949;
+  font-size: 1.5em;
+  line-height: 1em;
+  font-weight: normal;
+  margin: 20  0 10px 0;
+}
+.right{
+	width:50%;	
+	float:right;
+	text-align:center;
+	font-size:13px;
+}
+.right hr{
+ margin-top : 80px;
+ width : 35%;
+}
+.right h2 {
+  color: #494949;
+  font-size: 1.5em;
+  line-height: 1em;
+  font-weight: normal;
+  margin: 20  0 10px 0;
+}
+.break-down{
+	page-break-before: always;
+}

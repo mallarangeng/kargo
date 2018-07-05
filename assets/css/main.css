@@ -1,0 +1,39 @@
+@CHARSET "ISO-8859-1";
+#loading {
+	position:absolute;
+    width:100px;
+    height:100px;
+    left:50%;
+    top:50%;
+    margin-left:-50px;
+    margin-top:-50px;
+    z-index : 9999999;
+}
+.loader {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url('../images/loading_medium.gif') 50% 50% no-repeat rgb(249,249,249);
+}
+.search-input{
+	width: 100%;
+}
+.required label:after {
+    color: #e32;
+    content: ' *';
+    display:inline;
+}
+.loading_dot{
+	z-index: 9999;
+	background: url('../images/loading_dot.gif');
+}
+#bg-image{
+	background-image: url("../images/banner/banner-gapura.jpg");   
+    background-repeat: no-repeat, repeat;
+    width:100%;
+    height:100%;
+    position: fixed;   
+}
